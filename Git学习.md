@@ -430,7 +430,7 @@ Repository name：仓库名字
 
 Remote：仓库别名（一般与仓库名一致）
 
-![image-20220908162908118](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20220908162908118.png)
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/54245/image-20220908162908118.png)
 
 成功分享！
 
