@@ -13,6 +13,8 @@
 + IDEA上的Git操作
 + IDEA上的GitHub操作
 
+## 详见Git学习.md文件
+
 # 参考视频：
 https://www.bilibili.com/video/BV1vy4y1s7k6?spm_id_from=333.999.0.0
 
